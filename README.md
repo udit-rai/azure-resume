@@ -1,6 +1,12 @@
-# 🚀 GPS's Azure Resume
+# 🚀 Udit's Azure Resume
+My own Azure Resume, following ACG project video
 
-This is my Cloud Resume Challenge built on Azure. It's a static website hosted on Azure Storage, with a visitor counter built on Azure Functions. The website is built with HTML, CSS, and JavaScript. The visitor counter is built with .NET 8.0 and Azure Functions using the isolated process model.
+# First Steps
+- Frontend folder contains website files
+- main.js contains Visitor Counter code
+
+
+<!-- This is my Cloud Resume Challenge built on Azure. It's a static website hosted on Azure Storage, with a visitor counter built on Azure Functions. The website is built with HTML, CSS, and JavaScript. The visitor counter is built with .NET 8.0 and Azure Functions using the isolated process model.
 
 If you'd like to build your own, here is the YouTube video [video](https://youtu.be/ieYrBWmkfno).
 
@@ -121,4 +127,4 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
